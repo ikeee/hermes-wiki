@@ -5,7 +5,7 @@
 
 ## Entities
 
-<!-- empty -->
+- [[multi-function-hall]] — 深圳大学附属外国语中学多功能厅设备管理与使用指南（LED屏、灯光、音响、横屏、直播等）
 
 ## Concepts
 
