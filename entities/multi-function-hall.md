@@ -16,7 +16,14 @@ sources: [raw/articles/multi-function-hall-guide.md]
 
 多功能厅集会议、演出、展览等多种功能于一体。设备的有效管理与合理使用直接影响到活动的顺利进行。
 
+## 厂家和技术支持
+
+- **集成商**：郭磊
+- **微信号**：weiweizhihai
+
 ## 集成商所建造设备
+
+![设备总览](../raw/assets/multi-function-hall/image-20241018083208-27etu1w.png)
 
 | 设备 | 规格 |
 |------|------|
@@ -27,12 +34,21 @@ sources: [raw/articles/multi-function-hall-guide.md]
 
 ## 无线信号覆盖
 
+![无线信号1](../raw/assets/multi-function-hall/image-20250317101102-lcz2bip.png)
+![无线信号2](../raw/assets/multi-function-hall/image-20250317101517-rv2o5vt.png)
+
 - **南山教育公共WI-FI**（`NSJYJ_MAC`）— 外来人员优先连接
 - **DGNT** — 备用信号，最大支持 **30** 个用户
+
+## 公开课场景
+
+![公开课场景1](../raw/assets/multi-function-hall/image-20250317102533-5shi7un.png)
 
 ## 照明
 
 ### 开关闸位置
+
+![开关闸位置](../raw/assets/multi-function-hall/image-20241018083208-27etu1w.png)
 
 位于多功能厅后方电箱内。
 
@@ -40,9 +56,13 @@ sources: [raw/articles/multi-function-hall-guide.md]
 
 ### 开启和关闭
 
+![LED屏开关](../raw/assets/multi-function-hall/image-20241018090827-idng9aa.png)
+
 通过控制柜内的空开控制LED屏电源。
 
 ### 视频信号源切换
+
+![信号切换](../raw/assets/multi-function-hall/image-20241018091452-upfp5yo.png)
 
 支持以下输入源切换：
 - **电脑** — 通过HDMI/VGA连接
@@ -52,6 +72,8 @@ sources: [raw/articles/multi-function-hall-guide.md]
 
 ### 开关闸
 
+![灯光开关](../raw/assets/multi-function-hall/image-20241018094223-zo4b27i.png)
+
 位于舞台侧面的电箱内。
 
 ### 灯光调节台
@@ -59,6 +81,8 @@ sources: [raw/articles/multi-function-hall-guide.md]
 通过灯光调节台控制灯光场景。
 
 ## 横屏
+
+![横屏外观](../raw/assets/multi-function-hall/image-20241018104714-3ypdx87.png)
 
 ### 电源开关
 
@@ -73,7 +97,11 @@ sources: [raw/articles/multi-function-hall-guide.md]
 
 ## 调音台
 
+![调音台](../raw/assets/multi-function-hall/image-20241018103257-6x5gvwz.png)
+
 ### 功放
+
+![功放](../raw/assets/multi-function-hall/image-20241018103858-ffifo5a.png)
 
 > ⚠️ 按 A 后等待 **30 秒**，待 A 层 4 台功放完全亮灯后再开启 B 层
 
@@ -85,6 +113,8 @@ sources: [raw/articles/multi-function-hall-guide.md]
 用于每周一升旗仪式直播。
 
 ### 手机直播
+
+![直播设置1](../raw/assets/multi-function-hall/image-20241021085251-2ngxad2.png)
 
 路径：企业微信 → 深大附属外国语中学（全员）→ 直播 → 通用直播
 
@@ -101,18 +131,11 @@ sources: [raw/articles/multi-function-hall-guide.md]
 - 方案 B：摄像头 + OBS 推流
 - 内网直播服务（待完善）
 
-## 图片资料
-
-以下图片存放在 `raw/assets/multi-function-hall/` 目录中（内网拍摄，仅内网环境可见）：
-
-- 总体布局图
-- LED屏控制柜
-- 信号切换面板
-- 灯光控制台
-- 横屏控制界面
-- 调音台与功放
-- 直播设置截图
-
 ## 相关页面
 
 - [[hermes-wiki-setup]] — 本Wiki搭建记录
+
+## 内网原始地址
+
+原文及更多图片请访问内网Wiki：
+http://192.168.30.97:3000/zh/多功能厅设备管理与使用
